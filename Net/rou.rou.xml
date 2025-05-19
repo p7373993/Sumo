@@ -1,0 +1,9 @@
+xml version=1.0 
+routes xmlnsxsi=httpwww.w3.org2001XMLSchema-instance xsinoNamespaceSchemaLocation=httpsumo.dlr.dexsdroutes_file.xsd
+    flow id=F1 begin=0 end=300 fromTaz=taz_0 toTaz=taz_2 number=10 departLane=random
+    flow id=F1 begin=0 end=300 fromTaz=taz_0 toTaz=taz_5 number=10 departLane=random
+    flow id=F1 begin=0 end=300 fromTaz=taz_1 toTaz=taz_3 number=10 departLane=random
+    flow id=F2 begin=0 end=300 fromTaz=taz_2 toTaz=taz_3 number=10 departLane=random
+    flow id=F3 begin=0 end=300 fromTaz=taz_4 toTaz=taz_5 number=10 departLane=random
+routes
+출처 httpstreesparrow.tistory.com10 [교통앵무티스토리]
